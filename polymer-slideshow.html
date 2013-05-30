@@ -52,8 +52,9 @@
   <script>
     Polymer.register(this, {
       currentImage: 0, //image to start with initially
+      width:250,
+      height:250,
       ready: function() {
-        window.test = this;
         this.images = this.querySelectorAll("img");
         if (this.images.length > 0){
           this.images[0].style.opacity = 1;
