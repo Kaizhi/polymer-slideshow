@@ -3,7 +3,7 @@
 A simple slideshow element built with [Polymer.js](http://www.polymer-project.org/).
 
 ### Compatibility Disclaimer
-This will probably only work on the latest/nightlies of major browsers. Please refer to the [polymer compatibility page](http://www.polymer-project.org/compatibility.html) for more info.
+This will probably only work on the latest/nightlies of major browsers. Please refer to the [polymer compatibility page](http://www.polymer-project.org/resources/compatibility.html) for more info.
 
 ### Example
 
